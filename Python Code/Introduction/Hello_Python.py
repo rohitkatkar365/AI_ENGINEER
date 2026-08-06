@@ -1,0 +1,1 @@
+print("Namste Python, Welcome to AI World")
